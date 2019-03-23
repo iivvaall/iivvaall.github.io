@@ -1,6 +1,24 @@
 [
   
     {
+      "title"    : "Неприглядные чувства",
+      "category" : "notes",
+      "url"      : "https://alekseyivanov.ru/articles/bad_emo/"
+    } ,
+  
+    {
+      "title"    : "Тот самый треугольник",
+      "category" : "notes",
+      "url"      : "https://alekseyivanov.ru/articles/bermuda/"
+    } ,
+  
+    {
+      "title"    : "Про обучение",
+      "category" : "intro",
+      "url"      : "https://alekseyivanov.ru/articles/edu/"
+    } ,
+  
+    {
       "title"    : "Серые будни",
       "category" : "notes",
       "url"      : "https://alekseyivanov.ru/articles/grayday/"
